@@ -1,5 +1,5 @@
 ### Olá! Eu sou João Silva
 
 
-- 🔭 Sou estudante de desenvolvimento de sistemas
+- 📓 Sou estudante de desenvolvimento de sistemas
 
