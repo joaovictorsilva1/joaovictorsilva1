@@ -1,4 +1,4 @@
-### Olá! Eu sou João Silva
+### Olá! Eu sou João Silva apaixonado por tecnologia 
 
 
 - 📓 Sou estudante de desenvolvimento de sistemas
