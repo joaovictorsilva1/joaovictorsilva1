@@ -16,6 +16,5 @@
     <img align="center" alt="react native"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
     <img align="center" alt="react "python"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
     <img align="center" alt="react "bootstrap"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-</div>
-
+    
 ![snake gif](https://github.com/joaovictorsilva1/joaovictorsilva1/blob/output/github-contribution-grid-snake.svg)
