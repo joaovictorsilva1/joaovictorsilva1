@@ -17,6 +17,5 @@
     <img align="center" alt="react "python"  height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
     <img align="center" alt="react "bootstrap"  height="80" width="80" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
-</div>
 
 ![snake gif](https://github.com/joaovictorsilva1/joaovictorsilva1/blob/output/github-contribution-grid-snake.svg)
