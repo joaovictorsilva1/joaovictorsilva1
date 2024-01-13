@@ -1,4 +1,5 @@
 ## Hello! I'm João Silva, a full stack web developer and a technology enthusiast.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=4000&duration=3000&pause=1000&color=DA19F7&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&height=100&lines=Hello!+I'm+Jo%C3%A3o+Silva%2C+a+full+stack+web++developer+and+a+technology+enthusiast.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=4000&duration=3000&pause=1000&color=DA19F7&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&height=100&lines=Hello!+I'm+Jo%C3%A3o+Silva%2C+a+full+stack+web+;developer+and+a+technology+enthusiast.)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/joaovictorsilva1">
