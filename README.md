@@ -1,6 +1,5 @@
 ## Hello! I'm João Silva, a full stack web developer and a technology enthusiast.
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?
-                                      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=4000&pause=1000&color=DA19F7&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=635&height=90&lines=Hello!+I'm+Jo%C3%A3o+Silva%2C+a+full+stack+web+developer+and+a+technology+enthusiast." alt="Typing SVG" /></a>font=Fira+Code&pause=1000&color=DA19F7&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Hello!+I'm+Jo%C3%A3o+Silva%2C+a+full+stack+web+developer+and+a+technology+enthusiast." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=4000&pause=1000&color=DA19F7&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=635&height=90&lines=Hello!+I'm+Jo%C3%A3o+Silva%2C+a+full+stack+web+developer+and+a+technology+enthusiast." alt="Typing SVG" /></a>
 <div align="center">
   <a href="https://github.com/joaovictorsilva1">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictorsilva1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
