@@ -19,7 +19,6 @@
     <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
   ![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
-![snake gif](https://github.com/joaovictorsilva1/joaovictorsilva1/blob/output/github-contribution-grid-snake.svg)
 
   ## Where to find me:
   
