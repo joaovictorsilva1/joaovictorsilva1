@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=F722F2&random=false&width=435&lines=Hello!+I'm+Jo%C3%A3o+Silva%2C+a+full+stack+;+web+developer+and+a+technology+enthusiast." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F722F2&random=false&width=635&lines=Hello!+I'm+Jo%C3%A3o+Silva%2C+a+full+stack+;+web+developer+and+a+technology+enthusiast." alt="Typing SVG" /></a>
 <div align="center">
   <a href="https://github.com/joaovictorsilva1">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictorsilva1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
